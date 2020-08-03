@@ -2,6 +2,7 @@
     "telemetry.machineId": "e985c3c6439e57aee734d6f66384a2d7bd28a59f0601c9cdd2daa3ce4903f1d1",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/andersonlima/appflix9",
             "file:///home/andersonlima/flixapp0-master",
             "file:///home/andersonlima/imersao-react-alura-master",
             "file:///home/andersonlima/allflix",
@@ -91,7 +92,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -100,7 +102,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/andersonlima/flixapp0-master",
+                                        "fsPath": "/home/andersonlima/appflix9",
+                                        "external": "file:///home/andersonlima/appflix9",
+                                        "path": "/home/andersonlima/appflix9",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/appflix9"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/andersonlima/flixapp0-master",
                                         "path": "/home/andersonlima/flixapp0-master",
                                         "scheme": "file"
@@ -195,17 +208,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/django_project/mysite"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andersonlima/django_project/django_projeto",
-                                        "path": "/home/andersonlima/django_project/django_projeto",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/django_project/django_projeto"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -832,7 +834,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -841,7 +844,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1519,9 +1523,8 @@
                 "userSettingsLabel": "ctrl+shift+y"
             },
             "workbench.action.terminal.toggleTerminal": {
-                "label": "Ctrl+Shift+´",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+[BracketLeft]"
+                "label": "Ctrl+`",
+                "userSettingsLabel": "ctrl+`"
             },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
@@ -1530,6 +1533,10 @@
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
+            },
+            "workbench.action.navigateBack": {
+                "label": "Ctrl+Alt+-",
+                "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
@@ -1686,6 +1693,10 @@
                 "label": "Shift+F9",
                 "userSettingsLabel": "shift+f9"
             },
+            "workbench.action.terminal.new": {
+                "label": "Ctrl+Shift+`",
+                "userSettingsLabel": "ctrl+shift+`"
+            },
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
@@ -1709,8 +1720,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/andersonlima/flixapp0-master",
-            "backupPath": "/home/andersonlima/.config/Code/Backups/fa26c7bafd91c70c512785f2d0cc2044",
+            "folder": "file:///home/andersonlima/appflix9",
+            "backupPath": "/home/andersonlima/.config/Code/Backups/54957a0500b43297a0e90c713867d21f",
             "uiState": {
                 "mode": 0,
                 "x": 0,

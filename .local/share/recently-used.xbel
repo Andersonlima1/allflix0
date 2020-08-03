@@ -454,4 +454,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/andersonlima/appflix9" added="2020-08-03T18:51:12Z" modified="2020-08-03T18:51:12Z" visited="2020-08-03T18:51:13.198176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T18:51:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
