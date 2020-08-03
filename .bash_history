@@ -396,3 +396,6 @@ git remote add origin https://github.com/Andersonlima1/ALLFLIX1.git
 git push -u origin master
 git pull -u origin master
 git push -u origin master
+Andersonlima1/ALLFLIX1.git
+https://github.com/Andersonlima1/ALLFLIX1
+npm start
