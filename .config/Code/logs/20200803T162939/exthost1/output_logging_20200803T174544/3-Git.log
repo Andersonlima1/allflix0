@@ -56,3 +56,54 @@ fatal: no upstream configured for branch 'flix'
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git cat-file -s 0cf3b464f24ffb73a3d1156bdf786ea32b81f3e6
+> git show --textconv :imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/andersonlima/.config/Code/logs/20200803T162939/exthost1/output_logging_20200803T174544/3-Git.log /home/andersonlima/allflix /home/andersonlima/anderson git js/anderson
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git cat-file -s 0cf3b464f24ffb73a3d1156bdf786ea32b81f3e6
+> git show --textconv :imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git branch
+> git reset -q HEAD -- .
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git cat-file -s 0cf3b464f24ffb73a3d1156bdf786ea32b81f3e6
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git config --get commit.template
+> git remote add certo https://github.com/Andersonlima1/ALLFLIX1.git
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git cat-file -s 0cf3b464f24ffb73a3d1156bdf786ea32b81f3e6
+> git show --textconv :imersao_alura-master/src/components/Carousel/components/Slider/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push certo flix
+> git add -A -- .
