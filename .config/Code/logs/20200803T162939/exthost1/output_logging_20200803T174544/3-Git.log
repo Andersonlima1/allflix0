@@ -202,3 +202,95 @@ fatal: no upstream configured for branch 'flix'
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> flix
+> git push -u certo flix
+remote: 
+remote: GitHub found 4 vulnerabilities on Andersonlima1/ALLFLIX1's default branch (2 high, 1 moderate, 1 low). To find out more, visit:        
+remote:      https://github.com/Andersonlima1/ALLFLIX1/network/alerts        
+remote: 
+To https://github.com/Andersonlima1/ALLFLIX1.git
+   8464295f6..d14957efc  flix -> flix
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git rev-list --left-right flix...refs/remotes/certo/flix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+From https://github.com/Andersonlima1/ALLFLIX1
+ * [new branch]          dependabot/npm_and_yarn/elliptic-6.5.3 -> certo/dependabot/npm_and_yarn/elliptic-6.5.3
+ * [new branch]          dependabot/npm_and_yarn/flixapp0-master/elliptic-6.5.3 -> certo/dependabot/npm_and_yarn/flixapp0-master/elliptic-6.5.3
+ * [new branch]          dependabot/npm_and_yarn/flixapp0-master/websocket-extensions-0.1.4 -> certo/dependabot/npm_and_yarn/flixapp0-master/websocket-extensions-0.1.4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git rev-list --left-right flix...refs/remotes/certo/flix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git rev-list --left-right flix...refs/remotes/certo/flix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags -r certo flix
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q --track origin/master
+fatal: A branch named 'master' already exists.
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git rev-list --left-right flix...refs/remotes/certo/flix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags certo flix
+From https://github.com/Andersonlima1/ALLFLIX1
+ * branch                flix       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git rev-list --left-right flix...refs/remotes/certo/flix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push certo flix:flix
+Everything up-to-date
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+> git rev-list --left-right flix...refs/remotes/certo/flix
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
