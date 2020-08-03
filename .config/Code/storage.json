@@ -656,8 +656,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1726,30 +1725,7 @@
                 "height": 762
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/andersonlima/imersao_alura-master",
-                "backupPath": "/home/andersonlima/.config/Code/Backups/4b296587924b06efbcf8ecc7cc3fbcfe",
-                "uiState": {
-                    "mode": 0,
-                    "x": 0,
-                    "y": 36,
-                    "width": 1479,
-                    "height": 762
-                }
-            },
-            {
-                "folder": "file:///home/andersonlima/flixapp0-master",
-                "backupPath": "/home/andersonlima/.config/Code/Backups/fa26c7bafd91c70c512785f2d0cc2044",
-                "uiState": {
-                    "mode": 1,
-                    "x": 194,
-                    "y": 38,
-                    "width": 1090,
-                    "height": 755
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "pickerWorkingDir": "/home/andersonlima"
 }

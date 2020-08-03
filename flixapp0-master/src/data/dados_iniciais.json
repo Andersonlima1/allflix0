@@ -9,15 +9,6 @@
       },
       "videos": [
         {
-      "titulo": "Ação",
-      "link": "https://www.youtube.com/watch?v=ou_jea3czo8",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "",
-        "url": "https://www.youtube.com/watch?v=ou_jea3czo8"
-      },
-      "videos": [
-        {
           "titulo": "A Justiceira",
           "url": "https://www.youtube.com/watch?v=ou_jea3czo8"
         },
@@ -27,30 +18,29 @@
         },
         {
           "titulo": "O Agente",
-          "url": "https://www.youtube.com/watch?v=n0adHrTzQKY&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN&index=12"
+          "url": "https://youtu.be/n0adHrTzQKY"
         },
         {
           "titulo": "Força Especial",
           "url": "https://www.youtube.com/embed/pdphRZJaeIw"
         },
-        
         {
           "titulo": "3 Desculpas Para Matar",
           "url": "https://www.youtube.com/watch?v=xxKHw0tKxQ4&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN&index=33"
-
-          },
-          { 
-            "titulo": "Piratas do Caribe - A Maldição da Pérola Negra", 
-            "url": "https://www.youtube.com/watch?v=Q-Lxf7W6V7E&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN&index=5"
-          },
-          { 
-            "titulo": "Missão quase impossível",
-            "url": "https://www.youtube.com/watch?v=ISUNVoWYeCk"
-          },
-          { 
-            "titulo": "O Sequestro",
-            "url": "https://www.youtube.com/watch?v=fQ06GGQlPDk"
-        }
+        },
+        {
+          "titulo": "Piratas do Caribe - A Maldição da Pérola Negra", 
+          "url": "https://www.youtube.com/watch?v=Q-Lxf7W6V7E&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN&index=5"
+          
+        },
+        {
+          "titulo": "Missão quase impossível",
+          "url": "https://www.youtube.com/watch?v=ISUNVoWYeCk"
+        },
+        {
+          "titulo": "O Sequestro",
+          "url": "https://www.youtube.com/watch?v=fQ06GGQlPDk"
+        }        
       ]
     },
     {
