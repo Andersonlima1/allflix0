@@ -1,0 +1,119 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv HEAD:.config/Code/storage.json
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/storage.json
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/andersonlima/.config/Code/storage.json
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/storage.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/storage.json
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/storage.json
+> git show --textconv HEAD:.config/Code/storage.json
+> git show --textconv HEAD:.config/Code/storage.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :flixapp0-master/package.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/package.json
+> git cat-file -s f84a80e0d772b51b09854b03b0d224d2f75e7abe
+> git check-ignore -v -z --stdin
+> git show --textconv :flixapp0-master/src/data/dados_iniciais.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/data/dados_iniciais.json
+> git cat-file -s c141b2e849acdc762681cf4bc0035a05d41a4a41
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/data/dados_iniciais.json
+> git cat-file -s c141b2e849acdc762681cf4bc0035a05d41a4a41
+> git show --textconv :flixapp0-master/src/data/dados_iniciais.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse flix
+> git rev-parse --symbolic-full-name flix@{u}
+fatal: no upstream configured for branch 'flix'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -386,3 +386,9 @@ npm run server
 npm start
 npm install
 npm start
+yarn start
+yarn build
+npm start
+npm install
+npm install
+npm start
